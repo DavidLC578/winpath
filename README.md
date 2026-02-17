@@ -24,7 +24,7 @@ A powerful and user-friendly command-line utility for managing the **current use
 ### Build from source
 
 ```bash
-git clone https://github.com/your-username/winpath.git
+git clone https://github.com/DavidLC578/winpath.git
 cd winpath
 cargo build --release
 ```
